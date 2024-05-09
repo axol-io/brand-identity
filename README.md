@@ -1,6 +1,7 @@
 # Brand Identity
 
 axol.io colors, logos, and overall branding guidelines.
+[Baps Patil](https://www.bapspatil.com)
 
 ![brand cover photo](/assets/Brand-Cover.png)
 
