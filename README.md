@@ -53,7 +53,7 @@ See `/assets/imagery/ai/` and examine the filenames to see the prompts we used f
 
 ## Patterns
 
-![patterns guideline](/assets/Patterns-guide.png)
+![patterns guideline](/assets/Patterns-test.png)
 
 We like the 'friendly shapes'. See `/assets/imagery/patterns`
 
