@@ -14,7 +14,7 @@ axol.io colors, logos, and overall branding guidelines.
 - CryptoWave Sky: `#58A1C6`
 - Crypto Frost: `#FDFFF9`
 - Node Indigo: `#28338B`
-- Shadow Blockchain: `#0A0F1A` # TODO: Fix the Color-palette-guide.png
+- Shadow Blockchain: `#12012C` # TODO: Fix the Color-palette-guide.png
 
 ## Typography
 
